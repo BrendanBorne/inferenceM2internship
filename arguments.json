@@ -1,0 +1,14 @@
+{
+    "betaInP":
+    {
+        "type":"unif",
+        "min":0,
+        "max":1
+    },
+    "omega":
+    {
+        "type":"unif",
+        "min":0,
+        "max":0.1
+    }
+}
