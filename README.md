@@ -63,17 +63,17 @@ They are both exported to the `results` folder.
 
 The python notebook __ABC_analysis.ipynb__ takes a look at the results through a variety of plots.
 
-## Script dependencies
+## Dependencies
 
-To run, the script needs [python3](https://www.python.org/) to be installed on your work environment. It also needs the following libraries:
+To run, the script needs [python3](https://www.python.org/) to be installed on your work environment. It was implemented with python3 version 3.10.6.
 
-* [numpy](https://numpy.org/doc/stable/index.html)
-* [scipy](https://scipy.org/)
-* [pandas](https://pandas.pydata.org/)
-* [psutil](https://pypi.org/project/psutil/)
-* [argparse](https://docs.python.org/3/library/argparse.html)
-* [json](https://docs.python.org/3/library/json.html)
-* [math](https://docs.python.org/3/library/math.html)
-* [datetime](https://docs.python.org/3/library/datetime.html)
+It also needs the following libraries:
 
-A few of those libraries are usually installed with python's default installation.
+* [numpy](https://numpy.org/doc/stable/index.html) (1.24.2)
+* [scipy](https://scipy.org/) (1.10.0)
+* [pandas](https://pandas.pydata.org/) (1.5.3)
+* [psutil](https://pypi.org/project/psutil/) (5.9.0)
+
+Other core libraries of python are used, but they usually come with every python3 installation.
+
+Compatibility with different versions cannot be ensured.
