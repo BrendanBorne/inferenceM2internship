@@ -1,6 +1,6 @@
 # Statistical inference for a toy model of the spread of bovine viral diarrhea on a large scale
 
-The aim of this git repository is to provide an implementation of a statistical inference algorithm for a large-scale stochastic epidemiological model. The inference method used is Approximate Bayesian Computation, and more specifically Sequential Monte Carlo.
+The aim of this git repository is to provide a possible implementation of a statistical inference algorithm for a large-scale stochastic epidemiological model. The inference method used is Approximate Bayesian Computation, and more specifically Sequential Monte Carlo.
 
 More information about these methods can be found [here](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2011.01640.x).
 
